@@ -1,1 +1,1 @@
-git init
+Compton project
